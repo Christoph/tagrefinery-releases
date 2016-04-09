@@ -11,5 +11,4 @@ Download the current version and simple start it by running the correct run_all 
 
 If the run_all file doesnt work, start the server.jar file per hand and open the index.html (no webserver is needed)
 
-## Change log
-
+## Recent Versions
