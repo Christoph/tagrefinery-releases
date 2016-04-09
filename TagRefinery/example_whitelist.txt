@@ -1,0 +1,5 @@
+word
+correct multi-word tag
+word
+word2
+word3
