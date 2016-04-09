@@ -7,4 +7,9 @@ Those outputs can be used in further steps like in recommendation servives, topi
 
 ## Usage
 
+Download the current version and simple start it by running the correct run_all file. There are example input csv files which show the needed csv headers. 
+
+If the run_all file doesnt work, start the server.jar file per hand and open the index.html (no webserver is needed)
+
 ## Change log
+
