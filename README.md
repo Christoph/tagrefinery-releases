@@ -18,7 +18,7 @@ There is one example file for the blacklist and the whitelist. Both files need "
 * weight: If you have metainformation you can use it here. This can be anything like and as example in an movie context the IMDB rating of a movie (item) can be used as metainformation. This information is used to decide which tags are more important than other tags. If you have no additional information use 1 in each row.
 
 ## Recent Versions
-### 9.4.2016 - version 0.1
+### 9.4.2016 - version 0.1 [download](https://github.com/Christoph/tagrefinery-releases/archive/10f787c6064ae01fe73f5ab08bdbfd76b4553342.zip)
 Links: [Interface](https://github.com/Christoph/tagrefinery-gui/tree/release-version-0.1) - [Server](https://github.com/Christoph/tagrefinery-core/tree/release-version-0.1)
 
 _Feature_ - Statistical spell-correction and word form consolidation
