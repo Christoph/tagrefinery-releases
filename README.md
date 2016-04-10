@@ -23,13 +23,13 @@ There is one example file for the blacklist and the whitelist. Both files need "
 ### 9.4.2016 - version 0.1 [download](https://github.com/Christoph/tagrefinery-releases/archive/10f787c6064ae01fe73f5ab08bdbfd76b4553342.zip)
 Links: [Interface](https://github.com/Christoph/tagrefinery-gui/tree/release-version-0.1) - [Server](https://github.com/Christoph/tagrefinery-core/tree/release-version-0.1)
 
-_Feature_ - Statistical spell-correction and word form consolidation
-_Feature_ - Find frequent and uniqe word groups
-_Feature_ - Reduce the total amount of tags in the tag set and salvage information from the removed tags
-Feature - CSV import and export (every grid can be exported)
-Feature - Filter and change the imported data on character and word level
-Feature - Visual guidance 
+* Feature - Statistical spell-correction and word form consolidation
+* Feature - Find frequent and uniqe word groups
+* Feature - Reduce the total amount of tags in the tag set and salvage information from the removed tags
+* Feature - CSV import and export (every grid can be exported)
+* Feature - Filter and change the imported data on character and word level
+* Feature - Visual guidance 
 
-_Known Issue_ - History works not correctly
-_Known Issue_ - The coloring of the vocab grid is not correct in the linked view
-_Known Issue_ - In the Advanced View is the dataset only updated if the user switches tabs - this is in some cases (adding a whitlelist but the change is only pushed to the server after you switch to another tab) missleading/cumbersome
+* _Known Issue_ - History works not correctly
+* _Known Issue_ - The coloring of the vocab grid is not correct in the linked view
+* _Known Issue_ - In the Advanced View is the dataset only updated if the user switches tabs - this is in some cases (adding a whitlelist but the change is only pushed to the server after you switch to another tab) missleading/cumbersome
