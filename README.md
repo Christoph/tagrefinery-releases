@@ -5,6 +5,8 @@ The framework is language independent and ships with multiple parameters which a
 
 Those outputs can be used in further steps like in recommendation servives, topic modelling algorithms or any text analysis tool.
 
+[download latest version](https://github.com/Christoph/tagrefinery-releases/archive/master.zip)
+
 ## Usage
 
 Download the current version and simple start it by running the correct run_all file. There are example input csv files which show the needed csv headers. 
